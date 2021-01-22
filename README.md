@@ -20,17 +20,13 @@
 
 ### Tools and Languages :
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/unity.svg" alt="Unity 3D" />](# "Unity 3D") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/androidstudio.svg" alt="Android Studio" />](# "Android Studio") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/inkscape.svg" alt="InkScape" />](# "InkScape") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/flutter.svg" alt="Flutter" />](# "Flutter") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
 [<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/csharp.svg" alt="C#" />](# "C#") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/go.svg" alt="Go" />](# "Go") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/cplusplus.svg" alt="C++" />](# "C++") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")&nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/dart.svg" alt="Dart" />](# "Dart") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
 
@@ -41,7 +37,7 @@
 
 <br />
 
-[<img align="" alt="Yuvraj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yuvrajraghuvanshis&show_icons=true&hide_border=false&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
+[<img align="" alt="Shikhar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shikhar0708&show_icons=true&hide_border=false&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
 
 
 [linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha-2b9179197  "LinkedIn, judge my academics."
