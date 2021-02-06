@@ -6,7 +6,7 @@
 
 <h2 align="center"> I’m an Embedded Developer who loves to work on Image processing as well. </h2>
 
-- 🌱 I'm a embedded systems developer.
+- 🌱 I'm an embedded systems developer.
 - ⛳ I play CTF in my free time.
 - 🎈 I'm looking to develop more image processing projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
