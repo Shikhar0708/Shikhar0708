@@ -6,11 +6,12 @@
 
 <h2 align="center"> I’m an Embedded Developer who loves to work on Image processing as well. </h2>
 
-- 🌱 I’m currently learning advanced Python and ML.
+- 🌱 I'm a embedded systems developer.
 - ⛳ I play CTF in my free time.
 - 🎈 I'm looking to develop more image processing projects.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play badminton.
+- Want to reach me Gmail - shikharsinha34920@gmail.com
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
@@ -41,4 +42,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha-2b9179197  "LinkedIn, judge my academics."
+
 # Thanks! you just discovered my github Good day to you :)
