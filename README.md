@@ -38,6 +38,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <br />
+
 [linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha-2b9179197  "LinkedIn, judge my academics."
 
 # Thanks! you just discovered my github Good day to you :)
