@@ -38,10 +38,6 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <br />
-
-[<img align="" alt="Shikhar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shikhar0708&show_icons=true&hide_border=false&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016" />](# "Some of my stats.")
-
-
 [linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha-2b9179197  "LinkedIn, judge my academics."
 
 # Thanks! you just discovered my github Good day to you :)
