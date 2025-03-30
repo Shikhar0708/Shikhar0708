@@ -26,6 +26,7 @@
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")&nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-excel.svg" alt="Excel" />](# "Excel")&nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-power-bi.svg" alt="pBi" />](# "pBi")&nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-java.svg" alt="java" />](# "java")&nbsp;
 
 
 <br />
