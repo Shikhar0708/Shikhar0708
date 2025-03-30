@@ -21,15 +21,10 @@
 
 ### Tools and Languages :
 
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/visualstudio.svg" alt="Visual Studio"/>](# "Visual Studio") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linux.svg" alt="Linux" />](# "Kali Linux") &nbsp;
-[<img height="35" width="32" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/android.svg" alt="Android" />](# "Android OS") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/go.svg" alt="Go" />](# "Go") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/cplusplus.svg" alt="C++" />](# "C++") &nbsp;
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")&nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/html5.svg" alt="HTML5" />](# "HTML5") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/css3.svg" alt="CSS 3" />](# "CSS3") &nbsp;
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")&nbsp;
 
 
 <br />
