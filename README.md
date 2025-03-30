@@ -11,7 +11,7 @@
 - 🎈 I'm looking to develop more business/data analysts projects.
 - ⚡ Fun fact: I love to play badminton.
 - Want to reach me Gmail - shikharsinha34920@gmail.com
-- Well, I'm a little blog writer maybe support me? have a read :- https://www.blogger.com/blog/posts/5945059394006656959?hl=en-GB&tab=jj
+- Portfolio - 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
