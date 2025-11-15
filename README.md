@@ -37,7 +37,6 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 ### 🔹 Programming / Development
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/cplusplus.svg" alt="C++" />](# "C++")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-java.svg" alt="Java" />](# "Java")
 
 ### 🔹 Cybersecurity & Pentesting Tools
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/nmap.png" alt="Nmap" />](# "Nmap")
