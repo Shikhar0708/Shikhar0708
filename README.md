@@ -53,7 +53,6 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 
 ---
 
-<h3 align="center">Thanks for visiting my GitHub —  
-Feel free to explore my cybersecurity journey! ⚔️</h3>
+<h3 align="center">Thanks for visiting my GitHub! ⚔️</h3>
 
 [linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha "LinkedIn"
