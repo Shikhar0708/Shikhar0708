@@ -41,9 +41,8 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 
 ### 🔹 Cybersecurity & Pentesting Tools
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/nmap.png" alt="Nmap" />](# "Nmap")
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/burp.png" alt="Burp Suite" />](# "Burp Suite")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/burpsuite.png" alt="Burp Suite" />](# "Burp Suite")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/hydra.png" alt="Hydra" />](# "Hydra")
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/ffuf.png" alt="ffuf" />](# "ffuf")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/metasploit.png" alt="Metasploit" />](# "Metasploit")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/wireshark.png" alt="Wireshark" />](# "Wireshark")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linux.png" alt="Linux" />](# "Linux")
