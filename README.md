@@ -22,7 +22,7 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 - Previously worked in **IoT and embedded systems** (ESP32, Embedded C, system optimization).  
 - Currently focusing on **cybersecurity, ethical hacking, and pentesting fundamentals**.  
 - Passionate about **network/web security, enumeration, and offensive tooling**.  
-- Frequently solving **VulnHub machines**, learning exploitation, and documenting my approach.  
+- Enjoy solving **VulnHub machines** and building structured exploitation workflows.  
 - ⚡ Fun fact: I enjoy badminton and anime when I'm not breaking lab machines.
 
 ---
@@ -34,19 +34,27 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 
 ## 🧰 Tools & Technologies I Use
 
-<!-- Programming -->
+### 🔹 Programming / Development
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/cplusplus.svg" alt="C++" />](# "C++")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-java.svg" alt="Java" />](# "Java")
 
-<!-- Cybersecurity Tools -->
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github.svg" alt="GitHub" />](# "GitHub")
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-power-bi.svg" alt="powerbi" />](# "Power BI")
+### 🔹 Cybersecurity & Pentesting Tools
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/nmap.png" alt="Nmap" />](# "Nmap")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/burp.png" alt="Burp Suite" />](# "Burp Suite")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/hydra.png" alt="Hydra" />](# "Hydra")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/ffuf.png" alt="ffuf" />](# "ffuf")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/metasploit.png" alt="Metasploit" />](# "Metasploit")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/wireshark.png" alt="Wireshark" />](# "Wireshark")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linux.png" alt="Linux" />](# "Linux")
+
+### 🔹 Office / Utility Tools
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-excel.svg" alt="Excel" />](# "Excel")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-power-bi.svg" alt="Power BI" />](# "Power BI")
 
 ---
 
 <h3 align="center">Thanks for visiting my GitHub —  
-Feel free to explore my journey into cybersecurity! ⚔️</h3>
+Feel free to explore my cybersecurity journey! ⚔️</h3>
 
 [linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha "LinkedIn"
