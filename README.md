@@ -1,40 +1,52 @@
-<h3 align="center" style="vertical-align:middle">Light attracts bugs, toggle on...<a href="https://github.com/settings/appearance" title="Click to toggle dark mode on."><img height="17.5" width="43.75" style="vertical-align:middle" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github_dark_alien.png" alt="dark toggle"/></a></h3> 
+<h3 align="center" style="vertical-align:middle">
+Light attracts bugs — toggle dark mode…
+<a href="https://github.com/settings/appearance" title="Click to toggle dark mode on.">
+<img height="17.5" width="43.75" style="vertical-align:middle" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github_dark_alien.png" alt="dark toggle"/>
+</a>
+</h3>
 
-<h1 align="center"> Hello fellow coders and analysts, How's it going? Well earlier I used to be the part of an organization that was extensively into IoT development but now I have decided to shift from embedded domain to data science realm.  <img src="https://komarev.com/ghpvc/?username=shikhar0708&color=008080&style=flat&label=Views" alt="yuvrajraghuvanshis" /> </h1>
+<h1 align="center">Hello World 👋  
+I’m Shikhar — transitioning from IoT development into Cybersecurity & Penetration Testing.</h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shikhar0708&color=008080&style=flat&label=Views" alt="profile views" />
+</p>
 
+<h2 align="center">
+I love breaking, securing, and understanding systems — from embedded hardware to web applications.
+</h2>
 
-<h2 align="center"> I’m a Business Analyst who loves to work on data driven solutions that would likely help organizations to help them efficiently utilise their resources. </h2>
+---
 
-- 🌱 I have knowledge about embedded systems.
-- ⛳ I play with data to make it more meaningful in my free time.
-- 🎈 I'm looking to develop more business/data analysts projects.
-- ⚡ Fun fact: I love to play badminton.
-- Want to reach me Gmail - shikharsinha34920@gmail.com
-- Portfolio - 
+### 🛡️ About Me
+- Previously worked in **IoT and embedded systems** (ESP32, Embedded C, system optimization).  
+- Currently focusing on **cybersecurity, ethical hacking, and pentesting fundamentals**.  
+- Passionate about **network/web security, enumeration, and offensive tooling**.  
+- Frequently solving **VulnHub machines**, learning exploitation, and documenting my approach.  
+- ⚡ Fun fact: I enjoy badminton and anime when I'm not breaking lab machines.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+---
 
-## Places to check me out! 
+## 🌐 Places to Find Me
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linkedin.svg" alt="LinkedIn" />][linkedin] &nbsp;
+---
 
-### Tools and Languages :
+## 🧰 Tools & Technologies I Use
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github.svg" alt="GitHub" />](# "GitHub") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/cplusplus.svg" alt="C++" />](# "C++") &nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")&nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-excel.svg" alt="Excel" />](# "Excel")&nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-power-bi.svg" alt="pBi" />](# "pBi")&nbsp;
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-java.svg" alt="java" />](# "java")&nbsp;
+<!-- Programming -->
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/cplusplus.svg" alt="C++" />](# "C++")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/python.svg" alt="Python" />](# "Python")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-java.svg" alt="Java" />](# "Java")
 
+<!-- Cybersecurity Tools -->
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github.svg" alt="GitHub" />](# "GitHub")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-power-bi.svg" alt="powerbi" />](# "Power BI")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/icons8-excel.svg" alt="Excel" />](# "Excel")
 
-<br />
+---
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+<h3 align="center">Thanks for visiting my GitHub —  
+Feel free to explore my journey into cybersecurity! ⚔️</h3>
 
-<br />
-
-[linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha-2b9179197  "LinkedIn, judge my academics."
-
-# Thanks! you just discovered my github Good day to you :)
+[linkedin]: https://www.linkedin.com/in/shikhar-kant-sinha "LinkedIn"
