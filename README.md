@@ -30,7 +30,7 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 ## 📦 Featured Project
 Here you’ll find the custom tools and scripts I’m building to support my pentesting workflow:
 
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/link.png" alt="GitHub Repo" />]((https://github.com/Shikhar0708/VedicRecon))  
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/link.png" alt="GitHub Repo" />](https://github.com/Shikhar0708/VedicRecon) 
 **Custom Pentesting Tools** — automation scripts, enumeration helpers, scanners, and utilities tailored for my needs.
 
 ---
