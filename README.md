@@ -27,6 +27,14 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 
 ---
 
+## 📦 Featured Project
+Here you’ll find the custom tools and scripts I’m building to support my pentesting workflow:
+
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/github.svg" alt="GitHub Repo" />](https://github.com/Shikhar0708/custom-tools/tree/main)  
+**Custom Pentesting Tools** — automation scripts, enumeration helpers, scanners, and utilities tailored for my needs.
+
+---
+
 ## 🌐 Places to Find Me
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/linkedin.svg" alt="LinkedIn" />][linkedin]
 
@@ -40,7 +48,7 @@ I love breaking, securing, and understanding systems — from embedded hardware 
 
 ### 🔹 Cybersecurity & Pentesting Tools
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/nmap.png" alt="Nmap" />](# "Nmap")
-[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/burpsuite.png" alt="Burp Suite" />](# "Burp Suite")
+[<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/burpsuite.png" alt="Burp Suite" />](# "Burb Suite")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/hydra.png" alt="Hydra" />](# "Hydra")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/metasploit.png" alt="Metasploit" />](# "Metasploit")
 [<img height="35" width="35" src="https://raw.githubusercontent.com/Shikhar0708/Shikhar0708/main/icons/wireshark.png" alt="Wireshark" />](# "Wireshark")
